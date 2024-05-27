@@ -1,0 +1,1 @@
+"Reestar Website: A sleek, responsive site built with HTML/CSS. Features easy navigation, customizable design, and optimized performance. Explore, customize, and deploy! Contributions welcome. Licensed under MIT."
